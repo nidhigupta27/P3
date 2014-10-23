@@ -35,7 +35,7 @@
            {{Form::reset('Reset',array('name' => 'reset','class' => 'btn btn-primary'))}}
 
       {{Form::close() }}
-   </div>
+   </div><br><br>
 
   @if(Input::has('generate')) 
     <p>{{$lorem_paragraphs}}</p>

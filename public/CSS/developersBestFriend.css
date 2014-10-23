@@ -4,7 +4,7 @@ body{
              }
 h1{
     font-family: 'Volkhov', serif;
-    font-size: 42px;
+    font-size: 45px;
     color:#FFA500;
     //color:#A52A2A;
     font-style:oblique;
@@ -41,9 +41,7 @@ p{
   font-family: 'Lusitana', serif;
   font-size: 18px;
 
- } 
-
-     
+ }    
 .container{
 display:block;
 padding: 0.4em;

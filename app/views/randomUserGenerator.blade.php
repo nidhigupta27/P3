@@ -53,7 +53,7 @@
                         array('name' => 'generate','class' => 'btn btn-primary'))}} &nbsp&nbsp
            {{Form::reset('Reset',array('name' => 'reset','class' => 'btn btn-primary'))}}
       {{Form::close() }}
-  </div>
+  </div><br><br>
   
 <!-- The object of color class is created which calls the method getRandColor() to give different colors to each 
   random user. -->
