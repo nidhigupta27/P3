@@ -11,8 +11,8 @@
     <div class="page-header col-sm-12 center">
       <h1> Developer's Best Friend </h1>
     </div>
-    <div class="col-sm-6">
-    <div class="panel panel-default">
+  <div class="col-sm-6">
+     <div class="panel panel-default">
        <div class="panel-heading center"><h2>Lorem Ipsum Generator</h2></div>
         <div class="panel-body">
            <p>
@@ -20,12 +20,12 @@
              By using a filler text of scrambled Latin it allows viewers to focus on graphical elements such as font, typography, and layout.
            </p>
         </div>   
-    </div>
-    <div class="center">
-      <a href="{{url('/lorem-ipsum')}}"><button type="button" class="btn btn-lg btn-default">
-        Generate Lorem Ipsum text <span class="glyphicon glyphicon-pencil"</span></button></a>
-    </div>
-
+     </div>
+    
+     <div class="center">
+       <a href="{{url('/lorem-ipsum')}}"><span class="btn btn-lg btn-default">
+        Generate Lorem Ipsum text <span class="glyphicon glyphicon-pencil"></span></span></a>
+     </div> 
   </div>
   <div class="col-sm-6">
     <div class="panel panel-default">
@@ -36,9 +36,9 @@
         </div>
     </div>
     <div class="center">
-      <a href="{{url('/random-user')}}"><button type="button" class="btn btn-lg btn-default">
-        Generate random user <span class="glyphicon glyphicon-user"></span></button></a>
-    </div>
+      <a href="{{url('/random-user')}}"><span class="btn btn-lg btn-default">
+        Generate random user <span class="glyphicon glyphicon-user"></span></span></a>
+    </div> 
   </div>
 </div>
  @stop
