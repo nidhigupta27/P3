@@ -4,7 +4,9 @@
  This assignment involves creating a web application "Developer's Best Friend " using Laravel Framework. The web application includes a Lorem Ipsum Generator and a Random User Generator.
 
 ## Demo
-  I will attend an in-person section with Katherine on Wednesday(Oct 29) or whenever its scheduled.
+  * I will attend an in-person section with Katherine on Wednesday(Oct 29) or whenever its scheduled.
+  * Due to unavailability of Katherine, here is my Jing screencast- [http://screencast.com/t/F0wdLKSR0Gj]
+  (http://screencast.com/t/F0wdLKSR0Gj)
 
 ## Details for teaching team
 * Used contollers to house application logic for both Lorem Ipsum text creation and Random users .
@@ -21,4 +23,3 @@
 * Random User Package - fzaninotto/faker
 
 Thanks!
-
